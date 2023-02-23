@@ -1,0 +1,9 @@
+{
+  "short_name": "Waqar Redux Toolkit",
+  "name": "Waqar Redux Toolkit",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
